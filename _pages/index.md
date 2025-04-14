@@ -13,6 +13,8 @@ permalink: /
     - 音楽
       - オケ アニソン 吹奏楽
       - Eve Yoasobi
+      - トロンボーン
+      - ピアノ
     - ボーとすること
     - anime
       - 転スラ　フリーレン　hellsing
